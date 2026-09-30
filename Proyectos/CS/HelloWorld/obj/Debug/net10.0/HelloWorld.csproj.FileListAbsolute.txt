@@ -1,0 +1,14 @@
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/bin/Debug/net10.0/HelloWorld
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll

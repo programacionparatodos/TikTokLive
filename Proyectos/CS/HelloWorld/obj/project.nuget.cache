@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHsh8rBFECY=",
+  "success": true,
+  "projectFilePath": "/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/arch-loki/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
