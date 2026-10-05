@@ -1,0 +1,15 @@
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/bin/Debug/net8.0/TiposDatos
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/bin/Debug/net8.0/TiposDatos.deps.json
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/bin/Debug/net8.0/TiposDatos.runtimeconfig.json
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/bin/Debug/net8.0/TiposDatos.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/bin/Debug/net8.0/TiposDatos.pdb
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.AssemblyInfoInputs.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.AssemblyInfo.cs
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.csproj.CoreCompileInputs.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.sourcelink.json
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/refint/TiposDatos.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.pdb
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/TiposDatos.genruntimeconfig.cache
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/obj/Debug/net8.0/ref/TiposDatos.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rT/N55cA40g=",
+  "success": true,
+  "projectFilePath": "/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/Fundamentos/TiposDatos/TiposDatos.csproj",
+  "expectedPackageFiles": [
+    "/home/arch-loki/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

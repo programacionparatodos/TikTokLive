@@ -12,3 +12,4 @@
 /media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
 /media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
 /media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
+/media/Personal/ALDOMAR/TikTok Live/Proyectos/CS/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json

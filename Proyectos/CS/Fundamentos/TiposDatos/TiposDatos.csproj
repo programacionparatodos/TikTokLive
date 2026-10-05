@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="T2_Reales.cs" />
+    <Compile Remove="T3_Caracteres.cs" />
+    <Compile Remove="T4_Cadena.cs" />
+    <Compile Remove="T5_Logico.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+</Project>
