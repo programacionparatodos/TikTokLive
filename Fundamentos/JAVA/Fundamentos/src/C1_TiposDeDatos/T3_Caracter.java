@@ -1,5 +1,3 @@
-package C1_TiposDeDatos;
-
 public class T3_Caracter {
     public static void main(String[] args) {
         // * -----------------------------

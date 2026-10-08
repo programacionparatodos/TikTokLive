@@ -1,5 +1,3 @@
-package C1_TiposDeDatos;
-
 public class T4_Cadenas {
     public static void main(String[] args) {
         // * ---------------------------

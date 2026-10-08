@@ -1,5 +1,3 @@
-package C2_VariablesConstantes;
-
 public class T1_Variables {
     public static void main(String[] args) {
         

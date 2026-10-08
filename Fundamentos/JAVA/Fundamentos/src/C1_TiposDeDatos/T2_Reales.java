@@ -1,5 +1,3 @@
-package C1_TiposDeDatos;
-
 public class T2_Reales {
     public static void main(String[] args) {
         // * -------------------------

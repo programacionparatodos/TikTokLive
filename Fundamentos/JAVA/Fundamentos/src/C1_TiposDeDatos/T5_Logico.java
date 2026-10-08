@@ -1,5 +1,3 @@
-package C1_TiposDeDatos;
-
 public class T5_Logico {
     public static void main(String[] args) {
         

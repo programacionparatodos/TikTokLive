@@ -1,5 +1,3 @@
-package C1_TiposDeDatos;
-
 public class T1_Entero {
 
     public static void main(String[] args) {
