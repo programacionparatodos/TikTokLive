@@ -48,7 +48,7 @@ int main() {
     // * double - double    = double
 
     cout << "\nOperador Resta: " << endl;
-    cout << 10 -4 << endl;
+    cout << 10 - 4 << endl;
     cout << 10 - 2.5f << endl;
     cout << 8.5f - 3 << endl;
     cout << 8.5f - 2.5f << endl;
