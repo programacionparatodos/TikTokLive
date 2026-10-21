@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class Codeforces_617A {
     public static void main(String[] args) {
+        
         // * Declaración de variables
         int x, pasos = 0;
 

@@ -1,7 +1,7 @@
 
 // TODO: 617A - Elephant | Codeforces
 
-#include "iostream"
+#include <iostream>
 
 using namespace std;
 

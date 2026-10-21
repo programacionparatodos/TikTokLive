@@ -1,4 +1,4 @@
-// 617A - Elephant  |  Codeforces
+// 617A - Elephant | Codeforces
 Algoritmo Elephant617A
 	
 	// Definición de variables
