@@ -1,11 +1,13 @@
-// 1A - Theatre Square | Codeforces
+
+// TODO: 1A - Theatre Square | Codeforces
+
 Algoritmo TheatreSquare1A
 
-	// Declaración de variables
+	// * Declaración de variables
 	Definir n, m, a Como Entero;
 	Definir col, fil, total Como Entero;
 
-	// Entrada de datos
+	// * Entrada de datos
 	Escribir "Ingrese el valor de n: ";
 	Leer n;
 	Escribir "Ingrese el valor de m: ";
@@ -13,12 +15,12 @@ Algoritmo TheatreSquare1A
 	Escribir "Ingrese el valor de a: ";
 	Leer a;
 
-	// Proceso
+	// * Proceso
 	col = TRUNC((n + a - 1) / a);
 	fil = TRUNC((m + a - 1) / a);
 	total = col * fil;
 
-	// Salida de datos
+	// * Salida de datos
 	Escribir "El total es: ", total;
 
 FinAlgoritmo

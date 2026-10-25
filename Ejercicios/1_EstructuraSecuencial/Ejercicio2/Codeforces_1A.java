@@ -1,3 +1,6 @@
+
+// TODO: 1A - Theatre Square | Codeforces
+
 package Ejercicio2;
 
 // * Entrada de datos
